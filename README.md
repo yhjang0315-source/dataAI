@@ -26,4 +26,4 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-참가 전략: [docs/strategy.md](docs/strategy.md)
+참가 전략: [docs/strategy.md](docs/strategy.md) · 문제 정의: [docs/problem.md](docs/problem.md)
